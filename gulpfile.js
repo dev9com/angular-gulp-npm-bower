@@ -73,7 +73,7 @@ gulp.task('war', function () {
     gulp.src('./build/**/*.*')
         .pipe(plugins.war({
             welcome: 'index.html',
-            displayName: 'Luma Checkout'
+            displayName: 'Dev9 Demo App'
         }))
         .pipe(plugins.zip(package.name + '.war'))
         .pipe(gulp.dest("./dist"));
