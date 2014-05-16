@@ -1,0 +1,27 @@
+{
+  "name": "nintendo-luma-pp",
+  "main": "app.js",
+  "version": "0.0.1",
+  "authors": [
+    "Dustin Barnes <dustin@dev9.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "1.2.16",
+    "angular-ui-router": "0.2.10",
+    "angular-mocks": "~1.2",
+    "angular-resource": "~1.2",
+    "bootstrap": "~3.1",
+    "angular-bootstrap": "~0.10.0",
+    "ng-placeholders": "0.0.3-SNAPSHOT"
+  }
+}
+

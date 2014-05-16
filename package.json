@@ -1,0 +1,22 @@
+{
+  "name": "dev9-angular-gulp-npm-bower",
+  "version": "0.0.1",
+  "main": "app/app.js",
+  "devDependencies": {
+    "gulp": "~3.5.5",
+    "gulp-concat": "~2.1.7",
+    "gulp-jshint": "~1.5.0",
+    "gulp-load-plugins": "~0.4.0",
+    "gulp-nginclude": "0.4.x",
+    "gulp-angular-templatecache": "^1.1.0",
+    "gulp-connect": "^1.0.7",
+    "gulp-ngmin": "0.3.0",
+    "gulp-bower-files": "0.2.2",
+    "gulp-filter": "0.4.1",
+    "gulp-war": "0.0.x",
+    "gulp-zip": "0.3.x",
+    "karma": "^0.12.1",
+    "karma-jasmine": "^0.1.5",
+    "karma-chrome-launcher": "^0.1.2"
+  }
+}

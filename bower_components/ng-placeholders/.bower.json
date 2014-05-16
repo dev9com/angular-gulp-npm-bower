@@ -1,0 +1,33 @@
+{
+  "name": "ng-placeholders",
+  "version": "0.0.3-SNAPSHOT",
+    "main": "dist/placeholders-0.0.3-SNAPSHOT.js",
+  "ignore": [
+    ".idea",
+    "demo",
+    "lib",
+    "node_modules",
+    "src",
+    "test",
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "angular-placeholders.iml",
+    "bower.json",
+    "Gruntfile.js",
+    "karma.conf.js",
+    "package.json",
+    "README.md"
+  ],
+  "homepage": "https://github.com/tdascoli/angular-placeholders",
+  "_release": "0.0.3-SNAPSHOT",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.3-SNAPSHOT",
+    "commit": "81f7291e011295f9b01deb80673f2bef9441e71c"
+  },
+  "_source": "git://github.com/tdascoli/angular-placeholders.git",
+  "_target": "0.0.3-SNAPSHOT",
+  "_originalSource": "ng-placeholders"
+}
